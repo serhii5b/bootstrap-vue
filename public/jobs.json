@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Engineer",
+    "id": 1
+  },
+  {
+    "name": "Doctor",
+    "id": 2
+  },
+  {
+    "name": "Driver",
+    "id": 3
+  },
+  {
+    "name": "Sale manager",
+    "id": 14
+  },
+  {
+    "name": "Dantist",
+    "id": 4
+  },
+  {
+    "name": "Software engineer",
+    "id": 5
+  },
+  {
+    "name": "Baker",
+    "id": 6
+  },
+  {
+    "name": "Administrator",
+    "id": 7
+  },
+  {
+    "name": "Content manager",
+    "id": 8
+  },
+  {
+    "name": "Service engineer",
+    "id": 9
+  },
+  {
+    "name": "Dictor",
+    "id": 10
+  },
+  {
+    "name": "Military worker",
+    "id": 11
+  },
+  {
+    "name": "Musician",
+    "id": 12
+  },
+  {
+    "name": "Art worker",
+    "id": 13
+  }
+]
